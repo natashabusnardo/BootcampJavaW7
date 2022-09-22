@@ -17,5 +17,6 @@ public class example01 {
         numeroDouble = (3 + 5) * 2;
 
         System.out.println(numeroDouble);
+
     }
 }
