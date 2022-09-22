@@ -1,6 +1,6 @@
-package examples;
+package examples.example02;
 
-public class example02 {
+public class Example02 {
     public static void main(String[] args) {
 
         int numero = 0;

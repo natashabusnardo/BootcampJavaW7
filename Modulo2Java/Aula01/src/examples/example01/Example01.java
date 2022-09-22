@@ -1,6 +1,6 @@
-package examples;
+package examples.example01;
 
-public class example01 {
+public class Example01 {
     public static void main(String[] args) {
         int numeroInteiro;
         double numeroDouble;

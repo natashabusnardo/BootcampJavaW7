@@ -1,6 +1,6 @@
-package examples;
+package examples.example03;
 
-public class example03 {
+public class Example03 {
     public static void main(String[] args) {
         int contador = 1;
 
